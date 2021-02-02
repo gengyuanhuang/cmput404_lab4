@@ -1,0 +1,2 @@
+Question 7.
+we already defined url in url.py, we should not repeat it again in template. it will be easily changed later if we have them all in my place
